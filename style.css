@@ -1,0 +1,44 @@
+.place-button{	
+	display: flex;
+	justify-content: center;
+	position: relative; 
+	top: 350px;
+	/*align-items: center;
+	margin: 0 auto;*/
+}
+
+.btn{
+	background-color: white ;
+	color: #312315;
+}
+
+h1{
+	display: flex;
+	justify-content: center;
+	position: relative; 
+	top: 250px;
+	font-family: fantasy;
+	font-size: 30px;
+	color: white;
+	text-align: center;
+
+}
+
+body, html{
+	height: 100%;
+}
+.img-fluid{
+
+/* The image used */
+/*    background-image: url("https://previews.123rf.com/images/fotoslaz/fotoslaz1505/fotoslaz150500003/40290080-open-air-hot-spring-spa-on-natural-background-in-sunset-time.jpg");
+*/
+	background-image: url(image3.jpg);
+    /* Full height */
+    height: 100%; 
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
